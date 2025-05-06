@@ -1,0 +1,5 @@
+# Echo Startup Protocol
+- Pull latest from GitHub
+- Log system time and status
+- Load action queue
+- Begin passive listening mode
